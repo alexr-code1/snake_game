@@ -1,6 +1,7 @@
 #Import Turtle Graphics and random module
 import turtle
 import random 
+import boto3
 
 # define program constants
 WIDTH = 800
